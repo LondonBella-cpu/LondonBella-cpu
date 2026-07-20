@@ -58,17 +58,13 @@
 
 ### 🎵 最近在听 · NetEase Cloud Music
 
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle" align="center"><img src="./assets/music-side-left.svg" width="110" alt="Hello Kitty and cat" /></td>
-    <td align="center" bgcolor="#eef7ff">
-      <a href="https://music.163.com/#/user/home?id=3409558972">
-        <img src="https://netease-recent-profile.vercel.app/?id=3409558972&number=1&size=60&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=400&mode=dark" alt="NetEase recently played" width="400" />
-      </a>
-    </td>
-    <td valign="middle" align="center"><img src="./assets/music-side-right.svg" width="110" alt="Dog and bear" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/hello-kitty-face.svg" width="100" alt="Hello Kitty" />
+  <a href="https://music.163.com/#/user/home?id=3409558972">
+    <img src="https://netease-recent-profile.vercel.app/?id=3409558972&number=1&size=60&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=400&mode=dark" alt="NetEase recently played" width="400" />
+  </a>
+  <img src="./assets/bunny.svg" width="100" alt="Bunny" />
+</p>
 
 <br/>
 
