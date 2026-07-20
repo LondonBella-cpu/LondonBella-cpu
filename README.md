@@ -1,4 +1,9 @@
 <div align="center">
+<table width="100%" cellspacing="0" cellpadding="20">
+<tr>
+<td align="center" bgcolor="#fffaf8" background="https://raw.githubusercontent.com/LondonBella-cpu/LondonBella-cpu/main/assets/hellokitty-bg.png">
+
+<div align="center">
   <img src="./assets/banner.png" width="100%" alt="Hello Kitty beach banner" />
 </div>
 
@@ -44,17 +49,15 @@
 
 ### 🎵 最近在听 · NetEase Cloud Music
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" bgcolor="#eef7ff">
-        <a href="https://music.163.com/#/user/home?id=3409558972">
-          <img src="https://netease-recent-profile.vercel.app/?id=3409558972&number=1&size=60&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=400&mode=dark" alt="NetEase recently played" width="400" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center" bgcolor="#eef7ff">
+      <a href="https://music.163.com/#/user/home?id=3409558972">
+        <img src="https://netease-recent-profile.vercel.app/?id=3409558972&number=1&size=60&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=400&mode=dark" alt="NetEase recently played" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -97,8 +100,9 @@
 
 <br/>
 
-<div align="center">
+*✨ Thanks for visiting my Hello Kitty corner of GitHub! ✨*
 
-  *✨ Thanks for visiting my Hello Kitty corner of GitHub! ✨*
-
+</td>
+</tr>
+</table>
 </div>
