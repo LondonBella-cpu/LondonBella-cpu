@@ -38,10 +38,12 @@
 
 <br/>
 
-### 🎵 本周最爱听 · NetEase Cloud Music
+### 🎵 最近在听 · NetEase Cloud Music
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/LondonBella-cpu/netease-music-card-fixed@main/card.svg" alt="NetEase weekly top songs" width="480" />
+  <a href="https://music.163.com/#/user/home?id=3409558972">
+    <img src="https://netease-recent-profile.vercel.app/?id=3409558972&theme=card&title=最近在听&size=300" alt="NetEase recently played" width="480" />
+  </a>
 </p>
 
 <br/>
