@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/pingzi-pixel.svg" alt="pingzi" width="360" />
+  <img src="./assets/pingzi-pixel.svg" alt="PINGZI" width="280" />
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
 
 <p align="center">
   <a href="https://music.163.com/#/user/home?id=3409558972">
-    <img src="https://netease-recent-profile.vercel.app/?id=3409558972&title=最近在听&size=60" alt="NetEase recently played" />
+    <img src="https://netease-recent-profile.vercel.app/?id=3409558972&theme=card&title=最近在听&size=180&themeColor=ff69b4&show_bar=0&mode=dark" alt="NetEase recently played" width="360" />
   </a>
 </p>
 
@@ -53,12 +53,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=LondonBella-cpu&show_icons=true&hide_border=true&bg_color=ffc0cb20&title_color=ff1493&text_color=555&icon_color=ff69b4&ring_color=ff69b4" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=LondonBella-cpu&hide_border=true&background=ffc0cb20&ring=ff69b4&fire=ff1493&currStreakLabel=ff1493&sideLabels=555&dates=888" height="150" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LondonBella-cpu&layout=compact&hide_border=true&bg_color=ffc0cb20&title_color=ff1493&text_color=555&icon_color=ff69b4" height="150" alt="Top Languages" />
+  <img src="./assets/github-stats.svg" height="150" alt="GitHub Stats" />
+  <img src="./assets/github-streak.svg" height="150" alt="GitHub Streak" />
 </p>
 
 <br/>

@@ -1,61 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 72" width="440" height="72" role="img" aria-label="pingzi">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 56" width="300" height="56" role="img" aria-label="PINGZI">
   <defs>
-    <style>
-      .px { fill: #ff69b4; }
-      .sh { fill: #ffb6c1; }
-    </style>
+    <style>.px{fill:#ff69b4}.sh{fill:#ffb6c1}</style>
   </defs>
-  <!-- p -->
-  <rect class="sh" x="4" y="52" width="8" height="8"/><rect class="px" x="0" y="0" width="8" height="8"/><rect class="px" x="8" y="0" width="8" height="8"/><rect class="px" x="16" y="0" width="8" height="8"/><rect class="px" x="24" y="0" width="8" height="8"/>
-  <rect class="px" x="0" y="8" width="8" height="8"/>
-  <rect class="px" x="0" y="16" width="8" height="8"/><rect class="px" x="8" y="16" width="8" height="8"/><rect class="px" x="16" y="16" width="8" height="8"/><rect class="px" x="24" y="16" width="8" height="8"/>
-  <rect class="px" x="0" y="24" width="8" height="8"/>
-  <rect class="px" x="0" y="32" width="8" height="8"/>
-  <rect class="px" x="0" y="40" width="8" height="8"/>
-  <rect class="px" x="0" y="48" width="8" height="8"/>
-  <!-- i -->
-  <rect class="px" x="48" y="0" width="8" height="8"/>
-  <rect class="px" x="48" y="8" width="8" height="8"/>
-  <rect class="px" x="48" y="16" width="8" height="8"/>
-  <rect class="px" x="48" y="24" width="8" height="8"/>
-  <rect class="px" x="48" y="32" width="8" height="8"/>
-  <rect class="px" x="48" y="40" width="8" height="8"/>
-  <rect class="px" x="48" y="48" width="8" height="8"/>
-  <rect class="px" x="48" y="56" width="8" height="8"/>
-  <!-- n -->
-  <rect class="px" x="72" y="0" width="8" height="8"/>
-  <rect class="px" x="72" y="8" width="8" height="8"/><rect class="px" x="80" y="8" width="8" height="8"/>
-  <rect class="px" x="72" y="16" width="8" height="8"/><rect class="px" x="88" y="16" width="8" height="8"/>
-  <rect class="px" x="72" y="24" width="8" height="8"/><rect class="px" x="96" y="24" width="8" height="8"/>
-  <rect class="px" x="72" y="32" width="8" height="8"/><rect class="px" x="104" y="32" width="8" height="8"/>
-  <rect class="px" x="72" y="40" width="8" height="8"/><rect class="px" x="112" y="40" width="8" height="8"/>
-  <rect class="px" x="72" y="48" width="8" height="8"/>
-  <rect class="px" x="72" y="56" width="8" height="8"/>
-  <!-- g -->
-  <rect class="px" x="128" y="8" width="8" height="8"/><rect class="px" x="136" y="8" width="8" height="8"/><rect class="px" x="144" y="8" width="8" height="8"/><rect class="px" x="152" y="8" width="8" height="8"/>
-  <rect class="px" x="128" y="16" width="8" height="8"/>
-  <rect class="px" x="128" y="24" width="8" height="8"/><rect class="px" x="136" y="24" width="8" height="8"/><rect class="px" x="144" y="24" width="8" height="8"/><rect class="px" x="152" y="24" width="8" height="8"/>
-  <rect class="px" x="128" y="32" width="8" height="8"/><rect class="px" x="152" y="32" width="8" height="8"/>
-  <rect class="px" x="128" y="40" width="8" height="8"/><rect class="px" x="152" y="40" width="8" height="8"/>
-  <rect class="px" x="136" y="48" width="8" height="8"/><rect class="px" x="144" y="48" width="8" height="8"/><rect class="px" x="152" y="48" width="8" height="8"/>
-  <!-- z -->
-  <rect class="px" x="176" y="8" width="8" height="8"/><rect class="px" x="184" y="8" width="8" height="8"/><rect class="px" x="192" y="8" width="8" height="8"/><rect class="px" x="200" y="8" width="8" height="8"/><rect class="px" x="208" y="8" width="8" height="8"/>
-  <rect class="px" x="200" y="16" width="8" height="8"/>
-  <rect class="px" x="192" y="24" width="8" height="8"/>
-  <rect class="px" x="184" y="32" width="8" height="8"/>
-  <rect class="px" x="176" y="40" width="8" height="8"/>
-  <rect class="px" x="176" y="48" width="8" height="8"/><rect class="px" x="184" y="48" width="8" height="8"/><rect class="px" x="192" y="48" width="8" height="8"/><rect class="px" x="200" y="48" width="8" height="8"/><rect class="px" x="208" y="48" width="8" height="8"/>
-  <!-- i -->
-  <rect class="px" x="232" y="0" width="8" height="8"/>
-  <rect class="px" x="232" y="8" width="8" height="8"/>
-  <rect class="px" x="232" y="16" width="8" height="8"/>
-  <rect class="px" x="232" y="24" width="8" height="8"/>
-  <rect class="px" x="232" y="32" width="8" height="8"/>
-  <rect class="px" x="232" y="40" width="8" height="8"/>
-  <rect class="px" x="232" y="48" width="8" height="8"/>
-  <rect class="px" x="232" y="56" width="8" height="8"/>
-  <!-- decorative pixels -->
-  <rect class="sh" x="260" y="12" width="8" height="8"/>
-  <rect class="sh" x="276" y="28" width="8" height="8"/>
-  <rect class="sh" x="292" y="44" width="8" height="8"/>
+  <!-- P -->
+  <rect class="px" x="0" y="0" width="6" height="6"/><rect class="px" x="6" y="0" width="6" height="6"/><rect class="px" x="12" y="0" width="6" height="6"/><rect class="px" x="18" y="0" width="6" height="6"/><rect class="px" x="24" y="0" width="6" height="6"/>
+  <rect class="px" x="0" y="6" width="6" height="6"/><rect class="px" x="24" y="6" width="6" height="6"/>
+  <rect class="px" x="0" y="12" width="6" height="6"/><rect class="px" x="24" y="12" width="6" height="6"/>
+  <rect class="px" x="0" y="18" width="6" height="6"/><rect class="px" x="6" y="18" width="6" height="6"/><rect class="px" x="12" y="18" width="6" height="6"/><rect class="px" x="18" y="18" width="6" height="6"/>
+  <rect class="px" x="0" y="24" width="6" height="6"/><rect class="px" x="0" y="30" width="6" height="6"/><rect class="px" x="0" y="36" width="6" height="6"/>
+  <!-- I -->
+  <rect class="px" x="42" y="0" width="6" height="6"/><rect class="px" x="48" y="0" width="6" height="6"/><rect class="px" x="54" y="0" width="6" height="6"/>
+  <rect class="px" x="48" y="6" width="6" height="6"/><rect class="px" x="48" y="12" width="6" height="6"/><rect class="px" x="48" y="18" width="6" height="6"/><rect class="px" x="48" y="24" width="6" height="6"/><rect class="px" x="48" y="30" width="6" height="6"/>
+  <rect class="px" x="42" y="36" width="6" height="6"/><rect class="px" x="48" y="36" width="6" height="6"/><rect class="px" x="54" y="36" width="6" height="6"/>
+  <!-- N -->
+  <rect class="px" x="72" y="0" width="6" height="6"/><rect class="px" x="96" y="0" width="6" height="6"/>
+  <rect class="px" x="72" y="6" width="6" height="6"/><rect class="px" x="78" y="6" width="6" height="6"/><rect class="px" x="96" y="6" width="6" height="6"/>
+  <rect class="px" x="72" y="12" width="6" height="6"/><rect class="px" x="84" y="12" width="6" height="6"/><rect class="px" x="96" y="12" width="6" height="6"/>
+  <rect class="px" x="72" y="18" width="6" height="6"/><rect class="px" x="90" y="18" width="6" height="6"/><rect class="px" x="96" y="18" width="6" height="6"/>
+  <rect class="px" x="72" y="24" width="6" height="6"/><rect class="px" x="96" y="24" width="6" height="6"/>
+  <rect class="px" x="72" y="30" width="6" height="6"/><rect class="px" x="96" y="30" width="6" height="6"/>
+  <rect class="px" x="72" y="36" width="6" height="6"/><rect class="px" x="96" y="36" width="6" height="6"/>
+  <!-- G -->
+  <rect class="px" x="114" y="0" width="6" height="6"/><rect class="px" x="120" y="0" width="6" height="6"/><rect class="px" x="126" y="0" width="6" height="6"/><rect class="px" x="132" y="0" width="6" height="6"/>
+  <rect class="px" x="114" y="6" width="6" height="6"/>
+  <rect class="px" x="114" y="12" width="6" height="6"/><rect class="px" x="126" y="12" width="6" height="6"/><rect class="px" x="132" y="12" width="6" height="6"/>
+  <rect class="px" x="114" y="18" width="6" height="6"/><rect class="px" x="132" y="18" width="6" height="6"/>
+  <rect class="px" x="114" y="24" width="6" height="6"/><rect class="px" x="132" y="24" width="6" height="6"/>
+  <rect class="px" x="120" y="30" width="6" height="6"/><rect class="px" x="126" y="30" width="6" height="6"/><rect class="px" x="132" y="30" width="6" height="6"/>
+  <!-- Z -->
+  <rect class="px" x="150" y="0" width="6" height="6"/><rect class="px" x="156" y="0" width="6" height="6"/><rect class="px" x="162" y="0" width="6" height="6"/><rect class="px" x="168" y="0" width="6" height="6"/><rect class="px" x="174" y="0" width="6" height="6"/>
+  <rect class="px" x="168" y="6" width="6" height="6"/>
+  <rect class="px" x="162" y="12" width="6" height="6"/>
+  <rect class="px" x="156" y="18" width="6" height="6"/>
+  <rect class="px" x="150" y="24" width="6" height="6"/>
+  <rect class="px" x="150" y="30" width="6" height="6"/><rect class="px" x="156" y="30" width="6" height="6"/><rect class="px" x="162" y="30" width="6" height="6"/><rect class="px" x="168" y="30" width="6" height="6"/><rect class="px" x="174" y="30" width="6" height="6"/>
+  <!-- I -->
+  <rect class="px" x="192" y="0" width="6" height="6"/><rect class="px" x="198" y="0" width="6" height="6"/><rect class="px" x="204" y="0" width="6" height="6"/>
+  <rect class="px" x="198" y="6" width="6" height="6"/><rect class="px" x="198" y="12" width="6" height="6"/><rect class="px" x="198" y="18" width="6" height="6"/><rect class="px" x="198" y="24" width="6" height="6"/><rect class="px" x="198" y="30" width="6" height="6"/>
+  <rect class="px" x="192" y="36" width="6" height="6"/><rect class="px" x="198" y="36" width="6" height="6"/><rect class="px" x="204" y="36" width="6" height="6"/>
+  <!-- deco -->
+  <rect class="sh" x="222" y="6" width="6" height="6"/><rect class="sh" x="234" y="18" width="6" height="6"/><rect class="sh" x="246" y="30" width="6" height="6"/>
 </svg>
