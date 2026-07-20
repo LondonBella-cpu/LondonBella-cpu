@@ -1,8 +1,8 @@
 <div align="center">
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="90" valign="top" align="center" bgcolor="#fffaf8">
-  <img src="./assets/side-animals-left.svg" width="80" alt="" />
+<td width="100" valign="top" align="center" bgcolor="#fffaf8">
+  <img src="./assets/side-animals-left.svg" width="95" alt="cute animals" />
 </td>
 <td align="center" bgcolor="#fffaf8">
 
@@ -60,13 +60,13 @@
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="middle" align="right"><img src="./assets/music-side-left.svg" width="80" alt="" /></td>
+    <td valign="middle" align="center"><img src="./assets/music-side-left.svg" width="110" alt="Hello Kitty and cat" /></td>
     <td align="center" bgcolor="#eef7ff">
       <a href="https://music.163.com/#/user/home?id=3409558972">
         <img src="https://netease-recent-profile.vercel.app/?id=3409558972&number=1&size=60&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=400&mode=dark" alt="NetEase recently played" width="400" />
       </a>
     </td>
-    <td valign="middle" align="left"><img src="./assets/music-side-right.svg" width="80" alt="" /></td>
+    <td valign="middle" align="center"><img src="./assets/music-side-right.svg" width="110" alt="Dog and bear" /></td>
   </tr>
 </table>
 
@@ -118,8 +118,8 @@
 <img src="./assets/hellokitty-strip.png" width="100%" alt="" />
 
 </td>
-<td width="90" valign="top" align="center" bgcolor="#fffaf8">
-  <img src="./assets/side-animals-right.svg" width="80" alt="" />
+<td width="100" valign="top" align="center" bgcolor="#fffaf8">
+  <img src="./assets/side-animals-right.svg" width="95" alt="cute animals" />
 </td>
 </tr>
 </table>
