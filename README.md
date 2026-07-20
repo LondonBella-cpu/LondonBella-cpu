@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/pingzi-pixel.svg" alt="PINGZI" width="280" />
+  <img src="./assets/pingzi-pixel.svg" alt="PINGZI" width="330" />
 </p>
 
 <p align="center">
@@ -16,7 +16,9 @@
   <img src="https://img.shields.io/badge/Sanrio-Vibes-87ceeb?style=for-the-badge&logo=sparkles&logoColor=333" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/cute-divider.svg" width="100%" alt="cute animals on the line" />
+</p>
 
 ### 🌸 About Me
 
@@ -42,11 +44,17 @@
 
 ### 🎵 最近在听 · NetEase Cloud Music
 
-<p align="center">
-  <a href="https://music.163.com/#/user/home?id=3409558972">
-    <img src="https://netease-recent-profile.vercel.app/?id=3409558972&theme=card&title=最近在听&size=180&themeColor=ff69b4&show_bar=0&mode=dark" alt="NetEase recently played" width="360" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" bgcolor="#eef7ff">
+        <a href="https://music.163.com/#/user/home?id=3409558972">
+          <img src="https://netease-recent-profile.vercel.app/?id=3409558972&number=1&size=60&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=400&mode=dark" alt="NetEase recently played" width="400" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
