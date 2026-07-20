@@ -2,7 +2,9 @@
   <img src="./assets/banner.png" width="100%" alt="Hello Kitty beach banner" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor0=ffb6c1&customColor1=87ceeb&height=110&section=header&text=pingzi&fontSize=52&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="./assets/pingzi-pixel.svg" alt="pingzi" width="360" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=480&lines=Welcome+to+my+pink+paradise+%F0%9F%8C%B8;Building+cute+%26+powerful+tools+%F0%9F%92%96;Hello+Kitty+approved+coder+%F0%9F%8E%80" alt="Typing SVG" />
@@ -42,7 +44,7 @@
 
 <p align="center">
   <a href="https://music.163.com/#/user/home?id=3409558972">
-    <img src="https://netease-recent-profile.vercel.app/?id=3409558972&theme=card&title=最近在听&size=300" alt="NetEase recently played" width="480" />
+    <img src="https://netease-recent-profile.vercel.app/?id=3409558972&title=最近在听&size=60" alt="NetEase recently played" />
   </a>
 </p>
 
@@ -51,12 +53,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LondonBella-cpu&show_icons=true&hide_border=true&bg_color=ffc0cb20&title_color=ff1493&text_color=555&icon_color=ff69b4&ring_color=ff69b4" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LondonBella-cpu&hide_border=true&background=ffc0cb20&ring=ff69b4&fire=ff1493&currStreakLabel=ff1493&sideLabels=555&dates=888" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=LondonBella-cpu&show_icons=true&hide_border=true&bg_color=ffc0cb20&title_color=ff1493&text_color=555&icon_color=ff69b4&ring_color=ff69b4" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=LondonBella-cpu&hide_border=true&background=ffc0cb20&ring=ff69b4&fire=ff1493&currStreakLabel=ff1493&sideLabels=555&dates=888" height="150" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LondonBella-cpu&layout=compact&hide_border=true&bg_color=ffc0cb20&title_color=ff1493&text_color=555&icon_color=ff69b4" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=LondonBella-cpu&layout=compact&hide_border=true&bg_color=ffc0cb20&title_color=ff1493&text_color=555&icon_color=ff69b4" height="150" alt="Top Languages" />
 </p>
 
 <br/>
@@ -94,7 +96,5 @@
 <div align="center">
 
   *✨ Thanks for visiting my Hello Kitty corner of GitHub! ✨*
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=90&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F&fontSize=22&fontColor=ffffff" />
 
 </div>
