@@ -1,7 +1,12 @@
 <div align="center">
-<table width="100%" cellspacing="0" cellpadding="20">
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td align="center" bgcolor="#fffaf8" background="https://raw.githubusercontent.com/LondonBella-cpu/LondonBella-cpu/main/assets/hellokitty-bg.png">
+<td width="90" valign="top" align="center" bgcolor="#fffaf8">
+  <img src="./assets/side-animals-left.svg" width="80" alt="" />
+</td>
+<td align="center" bgcolor="#fffaf8">
+
+<img src="./assets/hellokitty-strip.png" width="100%" alt="" />
 
 <div align="center">
   <img src="./assets/banner.png" width="100%" alt="Hello Kitty beach banner" />
@@ -25,6 +30,8 @@
   <img src="./assets/cute-divider.svg" width="100%" alt="cute animals on the line" />
 </p>
 
+<img src="./assets/hellokitty-strip.png" width="100%" alt="" />
+
 ### 🌸 About Me
 
 ```text
@@ -47,19 +54,25 @@
 
 <br/>
 
+<img src="./assets/hellokitty-strip.png" width="100%" alt="" />
+
 ### 🎵 最近在听 · NetEase Cloud Music
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tr>
+    <td valign="middle" align="right"><img src="./assets/music-side-left.svg" width="80" alt="" /></td>
     <td align="center" bgcolor="#eef7ff">
       <a href="https://music.163.com/#/user/home?id=3409558972">
         <img src="https://netease-recent-profile.vercel.app/?id=3409558972&number=1&size=60&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=400&mode=dark" alt="NetEase recently played" width="400" />
       </a>
     </td>
+    <td valign="middle" align="left"><img src="./assets/music-side-right.svg" width="80" alt="" /></td>
   </tr>
 </table>
 
 <br/>
+
+<img src="./assets/hellokitty-strip.png" width="100%" alt="" />
 
 ### 📊 GitHub Stats
 
@@ -76,7 +89,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agents-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-87ceeb?style=for-the-badge&logo=googlelens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCR-87ceeb?style=for-the-badge&logo=googlelens&logoColor=333" />
   <img src="https://img.shields.io/badge/Browser_Extension-ffb6c1?style=for-the-badge&logo=googlechrome&logoColor=333" />
 </p>
 
@@ -102,6 +115,11 @@
 
 *✨ Thanks for visiting my Hello Kitty corner of GitHub! ✨*
 
+<img src="./assets/hellokitty-strip.png" width="100%" alt="" />
+
+</td>
+<td width="90" valign="top" align="center" bgcolor="#fffaf8">
+  <img src="./assets/side-animals-right.svg" width="80" alt="" />
 </td>
 </tr>
 </table>
