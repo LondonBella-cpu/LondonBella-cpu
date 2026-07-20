@@ -38,6 +38,14 @@
 
 <br/>
 
+### 🎵 本周最爱听 · NetEase Cloud Music
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/LondonBella-cpu/netease-music-card-fixed@main/card.svg" alt="NetEase weekly top songs" width="480" />
+</p>
+
+<br/>
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -60,6 +68,16 @@
   <img src="https://img.shields.io/badge/OCR-87ceeb?style=for-the-badge&logo=googlelens&logoColor=white" />
   <img src="https://img.shields.io/badge/Browser_Extension-ffb6c1?style=for-the-badge&logo=googlechrome&logoColor=333" />
 </p>
+
+<br/>
+
+### 🐍 Pink Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LondonBella-cpu/LondonBella-cpu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LondonBella-cpu/LondonBella-cpu/output/github-snake.svg" />
+  <img alt="Pink GitHub contribution snake" src="https://raw.githubusercontent.com/LondonBella-cpu/LondonBella-cpu/output/github-snake.svg" />
+</picture>
 
 <br/>
 
