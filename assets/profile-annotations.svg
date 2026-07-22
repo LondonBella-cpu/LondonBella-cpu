@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 250" width="980" height="250" role="img" aria-labelledby="title desc">
+<title id="title">Profile focus areas</title>
+<desc id="desc">AI agents, browser extensions, and OCR pipelines with hand-drawn annotations inspired by syabro/neat-annotations.</desc>
+<metadata>Annotation direction, label, and hand-drawn arrow style inspired by syabro/neat-annotations: https://github.com/syabro/neat-annotations</metadata>
+<rect width="980" height="250" fill="#fffaf8"/>
+<circle cx="88" cy="52" r="118" fill="#87ceeb" opacity=".13"/>
+<circle cx="888" cy="190" r="128" fill="#ff69b4" opacity=".12"/>
+<rect x="35" y="36" width="910" height="178" rx="22" fill="#fff" fill-opacity=".74" stroke="#ff9dcc" stroke-opacity=".42" stroke-width="1.4"/>
+
+<g>
+  <rect x="126" y="76" width="162" height="43" rx="7" fill="#f1ebfb"/>
+  <text x="207" y="106" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2d2530">AI agents</text>
+  <text x="118" y="65" fill="#8657c8" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="18" font-weight="400" opacity=".92" transform="rotate(-6 118 65)">experiments</text>
+  <path stroke="#8657c8" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9" d="M205 48 C198 57 195 66 201 75"/>
+  <path stroke="#8657c8" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9" d="M194 70 L201 77 L207 68"/>
+</g>
+
+<text x="310" y="106" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2d2530">·</text>
+
+<g>
+  <rect x="340" y="76" width="326" height="43" rx="7" fill="#e9f1ff"/>
+  <text x="503" y="106" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2d2530">browser extensions</text>
+  <text x="405" y="59" fill="#3b72c4" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="18" font-weight="400" opacity=".92" transform="rotate(4 405 59)">workflow tools</text>
+  <path stroke="#3b72c4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9" d="M546 49 C528 57 515 64 507 76"/>
+  <path stroke="#3b72c4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9" d="M501 66 L507 77 L517 71"/>
+</g>
+
+<text x="689" y="106" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2d2530">·</text>
+
+<g>
+  <rect x="716" y="76" width="236" height="43" rx="7" fill="#eaf7ef"/>
+  <text x="834" y="106" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#2d2530">OCR pipelines</text>
+  <text x="771" y="149" fill="#2f8f5b" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="18" font-weight="400" opacity=".92" transform="rotate(-3 771 149)">document systems</text>
+  <path stroke="#2f8f5b" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9" d="M850 137 C843 130 838 123 835 116"/>
+  <path stroke="#2f8f5b" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9" d="M829 123 L835 115 L843 123"/>
+</g>
+
+<g>
+  <rect x="330" y="146" width="320" height="35" rx="7" fill="#ffeaf4"/>
+  <text x="490" y="169" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" fill="#5a4d61">Building tools for real workflows</text>
+  <text x="677" y="191" fill="#d24f9f" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="18" font-weight="400" opacity=".92" transform="rotate(3 677 191)">ship with care</text>
+  <path stroke="#d24f9f" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9" d="M655 185 C638 181 627 176 618 168"/>
+  <path stroke="#d24f9f" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9" d="M619 178 L616 166 L628 169"/>
+</g>
+</svg>

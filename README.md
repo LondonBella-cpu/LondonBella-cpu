@@ -17,13 +17,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=480&lines=Welcome+to+my+pink+paradise+%F0%9F%8C%B8;Building+cute+%26+powerful+tools+%F0%9F%92%96;Hello+Kitty+approved+coder+%F0%9F%8E%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=620&lines=AI+agents+%E2%80%A2+browser+extensions+%E2%80%A2+OCR+pipelines;Building+tools+for+real+workflows;Design-minded+engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hello-Kitty-ff69b4?style=for-the-badge&logo=heart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pink-Coder-ffb6c1?style=for-the-badge&logo=github&logoColor=333" />
-  <img src="https://img.shields.io/badge/Sanrio-Vibes-87ceeb?style=for-the-badge&logo=sparkles&logoColor=333" />
+  <img src="./assets/profile-annotations.svg" width="720" alt="AI agents, browser extensions, and OCR pipelines" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Tooling-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Browser_Extensions-87ceeb?style=for-the-badge&logo=googlechrome&logoColor=333" />
+  <img src="https://img.shields.io/badge/OCR_Pipelines-ffb6c1?style=for-the-badge&logo=googlelens&logoColor=333" />
 </p>
 
 <p align="center">
@@ -35,10 +39,13 @@
 ### 🌸 About Me
 
 ```text
-🎀  Hi, I'm pingzi — a developer who loves clean code & cute aesthetics
-🌊  Exploring AI agents, browser extensions, and backend pipelines
-💖  Making tools that are both powerful and delightful
-🐱  Currently vibing in Hello Kitty's pink coding paradise
+Hi, I'm pingzi.
+
+I build browser extensions, AI agent experiments, and backend tools
+for document and OCR workflows.
+
+I care about clear interfaces, reliable pipelines, and details that
+make tools easier to use.
 ```
 
 <br/>
@@ -47,10 +54,10 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**GPT-Voyager**](https://github.com/LondonBella-cpu/GPT-Voyager) | ChatGPT 网页效率扩展：会话管理、提示词模板、公式/Mermaid 提取 | `TypeScript` |
-| [**forgepilot-agent**](https://github.com/LondonBella-cpu/forgepilot-agent) | Agent 开发实验项目 | — |
-| [**IM-Agent**](https://github.com/LondonBella-cpu/IM-Agent) | IM 智能体相关探索 | — |
-| [**proofreading-backend-ocr-pipeline**](https://github.com/LondonBella-cpu/proofreading-backend-ocr-pipeline) | 校对后端 OCR 流水线 | `Python` |
+| [**GPT-Voyager**](https://github.com/LondonBella-cpu/GPT-Voyager) | ChatGPT productivity extension for sessions, prompt templates, formulas, and Mermaid capture | `TypeScript` |
+| [**forgepilot-agent**](https://github.com/LondonBella-cpu/forgepilot-agent) | Agent development experiments and local tooling | — |
+| [**IM-Agent**](https://github.com/LondonBella-cpu/IM-Agent) | Intelligent assistant patterns for IM workflows | — |
+| [**proofreading-backend-ocr-pipeline**](https://github.com/LondonBella-cpu/proofreading-backend-ocr-pipeline) | Backend OCR pipeline for proofreading workflows | `Python` |
 
 <br/>
 
@@ -109,7 +116,7 @@
 
 <br/>
 
-*✨ Thanks for visiting my Hello Kitty corner of GitHub! ✨*
+*Thanks for stopping by.*
 
 <img src="./assets/hellokitty-strip.png" width="100%" alt="" />
 
