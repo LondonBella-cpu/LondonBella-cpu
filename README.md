@@ -1,8 +1,8 @@
 <div align="center">
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="100" valign="top" align="center" bgcolor="#fffaf8">
-  <img src="./assets/side-animals-left.svg" width="95" alt="cute animals" />
+<td width="80" valign="top" align="center" bgcolor="#fffaf8">
+  <img src="./assets/side-animals-left.svg" width="72" alt="cute animals" />
 </td>
 <td align="center" bgcolor="#fffaf8">
 
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-annotations.svg" width="100%" alt="AI agents, browser extensions, and OCR pipelines" />
+  <img src="./assets/profile-annotations.svg" width="640" alt="AI agents, browser extensions, and OCR pipelines" />
 </p>
 
 <p align="center">
@@ -121,8 +121,8 @@ make tools easier to use.
 <img src="./assets/hellokitty-strip.png" width="100%" alt="" />
 
 </td>
-<td width="100" valign="top" align="center" bgcolor="#fffaf8">
-  <img src="./assets/side-animals-right.svg" width="95" alt="cute animals" />
+<td width="80" valign="top" align="center" bgcolor="#fffaf8">
+  <img src="./assets/side-animals-right.svg" width="72" alt="cute animals" />
 </td>
 </tr>
 </table>

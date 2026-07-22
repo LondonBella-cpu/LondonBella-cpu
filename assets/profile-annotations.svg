@@ -1,70 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 235" width="760" height="235" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 235" role="img" aria-labelledby="title desc">
 <title id="title">Profile focus areas</title>
 <desc id="desc">Animated hand-drawn annotations for AI agents, browser extensions, OCR pipelines, and real workflow tools.</desc>
 <metadata>Inspired by syabro/neat-annotations: https://github.com/syabro/neat-annotations</metadata>
 
-<rect width="760" height="235" fill="#fffaf8"/>
-<circle cx="64" cy="42" r="94" fill="#87ceeb" opacity=".12"/>
-<circle cx="708" cy="190" r="112" fill="#ff69b4" opacity=".12"/>
-<rect x="24" y="34" width="712" height="166" rx="20" fill="#fff" fill-opacity=".76" stroke="#ff9dcc" stroke-opacity=".5" stroke-width="1.5"/>
+<rect width="680" height="235" fill="#fffaf8"/>
+<circle cx="56" cy="42" r="84" fill="#87ceeb" opacity=".12"/>
+<circle cx="632" cy="190" r="96" fill="#ff69b4" opacity=".12"/>
+<rect x="16" y="34" width="648" height="166" rx="20" fill="#fff" fill-opacity=".76" stroke="#ff9dcc" stroke-opacity=".5" stroke-width="1.5"/>
 
 <g>
-  <rect x="72" y="79" width="142" height="39" rx="7" fill="#f1ebfb" opacity=".55">
+  <rect x="36" y="79" width="132" height="39" rx="7" fill="#f1ebfb" opacity=".55">
     <animate attributeName="opacity" values=".28;.75;.55" dur="3.6s" begin="0s" repeatCount="indefinite"/>
   </rect>
-  <text x="143" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#2d2530">AI agents</text>
+  <text x="102" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#2d2530">AI agents</text>
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.08;.22;.88;1" dur="6s" begin="0s" repeatCount="indefinite"/>
-    <text x="72" y="63" fill="#8657c8" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="17" font-weight="400" transform="rotate(-7 72 63)">experiments</text>
-    <path stroke="#8657c8" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M138 55 C140 64 143 72 147 80">
+    <text x="36" y="63" fill="#8657c8" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="16" font-weight="400" transform="rotate(-7 36 63)">experiments</text>
+    <path stroke="#8657c8" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M98 55 C100 64 103 72 107 80">
       <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;.1;.25;.88;1" dur="6s" begin="0s" repeatCount="indefinite"/>
     </path>
-    <path stroke="#8657c8" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M139 74 L147 81 L153 71"/>
+    <path stroke="#8657c8" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M99 74 L107 81 L113 71"/>
   </g>
 </g>
 
 <g>
-  <rect x="264" y="79" width="268" height="39" rx="7" fill="#e9f1ff" opacity=".55">
+  <rect x="196" y="79" width="248" height="39" rx="7" fill="#e9f1ff" opacity=".55">
     <animate attributeName="opacity" values=".28;.75;.55" dur="3.6s" begin=".6s" repeatCount="indefinite"/>
   </rect>
-  <text x="398" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#2d2530">browser extensions</text>
+  <text x="320" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#2d2530">browser extensions</text>
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.16;.32;.88;1" dur="6s" begin="0s" repeatCount="indefinite"/>
-    <text x="340" y="61" fill="#3b72c4" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="17" font-weight="400" transform="rotate(3 340 61)">workflow tools</text>
-    <path stroke="#3b72c4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M468 55 C450 61 438 69 429 80">
+    <text x="268" y="61" fill="#3b72c4" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="16" font-weight="400" transform="rotate(3 268 61)">workflow tools</text>
+    <path stroke="#3b72c4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M388 55 C372 61 360 69 352 80">
       <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;.18;.34;.88;1" dur="6s" begin="0s" repeatCount="indefinite"/>
     </path>
-    <path stroke="#3b72c4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M424 69 L429 81 L441 75"/>
+    <path stroke="#3b72c4" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M347 69 L352 81 L364 75"/>
   </g>
 </g>
 
 <g>
-  <rect x="570" y="79" width="158" height="39" rx="7" fill="#eaf7ef" opacity=".55">
+  <rect x="472" y="79" width="172" height="39" rx="7" fill="#eaf7ef" opacity=".55">
     <animate attributeName="opacity" values=".28;.75;.55" dur="3.6s" begin="1.2s" repeatCount="indefinite"/>
   </rect>
-  <text x="649" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#2d2530">OCR pipelines</text>
+  <text x="558" y="107" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" fill="#2d2530">OCR pipelines</text>
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.24;.4;.88;1" dur="6s" begin="0s" repeatCount="indefinite"/>
-    <text x="592" y="148" fill="#2f8f5b" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="16" font-weight="400" transform="rotate(-3 592 148)">document systems</text>
-    <path stroke="#2f8f5b" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M642 135 C638 128 635 121 633 116">
+    <text x="500" y="148" fill="#2f8f5b" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="15" font-weight="400" transform="rotate(-3 500 148)">document systems</text>
+    <path stroke="#2f8f5b" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M552 135 C548 128 545 121 543 116">
       <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;.26;.42;.88;1" dur="6s" begin="0s" repeatCount="indefinite"/>
     </path>
-    <path stroke="#2f8f5b" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M625 124 L633 115 L640 125"/>
+    <path stroke="#2f8f5b" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M535 124 L543 115 L550 125"/>
   </g>
 </g>
 
 <g>
-  <rect x="238" y="146" width="284" height="35" rx="7" fill="#ffeaf4" opacity=".58">
+  <rect x="198" y="146" width="284" height="35" rx="7" fill="#ffeaf4" opacity=".58">
     <animate attributeName="opacity" values=".32;.78;.58" dur="3.6s" begin="1.8s" repeatCount="indefinite"/>
   </rect>
-  <text x="380" y="170" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#5a4d61">Building tools for real workflows</text>
+  <text x="340" y="170" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600" fill="#5a4d61">Building tools for real workflows</text>
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.32;.48;.88;1" dur="6s" begin="0s" repeatCount="indefinite"/>
-    <text x="548" y="190" fill="#d24f9f" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="17" font-weight="400" transform="rotate(3 548 190)">ship with care</text>
-    <path stroke="#d24f9f" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M532 184 C512 179 498 174 486 168">
+    <text x="498" y="190" fill="#d24f9f" font-family="Comic Sans MS, Bradley Hand, cursive" font-size="16" font-weight="400" transform="rotate(3 498 190)">ship with care</text>
+    <path stroke="#d24f9f" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1" d="M482 184 C464 179 450 174 438 168">
       <animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;.34;.5;.88;1" dur="6s" begin="0s" repeatCount="indefinite"/>
     </path>
-    <path stroke="#d24f9f" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M489 179 L484 167 L497 169"/>
+    <path stroke="#d24f9f" fill="none" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="M441 179 L436 167 L449 169"/>
   </g>
 </g>
 </svg>
