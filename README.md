@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile-annotations.svg" width="720" alt="AI agents, browser extensions, and OCR pipelines" />
+  <img src="./assets/profile-annotations.svg" width="100%" alt="AI agents, browser extensions, and OCR pipelines" />
 </p>
 
 <p align="center">
