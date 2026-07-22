@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 32" role="img" aria-label="AI Tooling, Browser Extensions, OCR Pipelines">
+  <!-- AI Tooling -->
+  <g>
+    <rect width="206" height="32" fill="#ff69b4"/>
+    <circle cx="18" cy="16" r="7" fill="#fff"/>
+    <path d="M15.5 16a2.5 2.5 0 1 0 5 0 2.5 2.5 0 0 0-5 0Z" fill="#ff69b4"/>
+    <text x="118" y="20.5" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="11" font-weight="700" letter-spacing=".35" fill="#fff">AI TOOLING</text>
+  </g>
+
+  <!-- Browser Extensions -->
+  <g transform="translate(217, 0)">
+    <rect width="206" height="32" fill="#87ceeb"/>
+    <circle cx="18" cy="16" r="8" fill="#fff" stroke="#333" stroke-width=".7"/>
+    <circle cx="18" cy="16" r="3" fill="#4285f4"/>
+    <text x="118" y="20.5" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="10" font-weight="700" letter-spacing=".2" fill="#333">BROWSER EXTENSIONS</text>
+  </g>
+
+  <!-- OCR Pipelines -->
+  <g transform="translate(434, 0)">
+    <rect width="206" height="32" fill="#ffb6c1"/>
+    <rect x="12" y="10" width="12" height="12" rx="2" fill="#fff" stroke="#333" stroke-width=".7"/>
+    <circle cx="18" cy="16" r="2.4" fill="#333"/>
+    <text x="118" y="20.5" text-anchor="middle" font-family="Verdana, Geneva, sans-serif" font-size="11" font-weight="700" letter-spacing=".35" fill="#333">OCR PIPELINES</text>
+  </g>
+</svg>

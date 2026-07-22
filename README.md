@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=620&lines=AI+agents+%E2%80%A2+browser+extensions+%E2%80%A2+OCR+pipelines;Building+tools+for+real+workflows;Design-minded+engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=640&lines=AI+agents+%E2%80%A2+browser+extensions+%E2%80%A2+OCR+pipelines;Building+tools+for+real+workflows;Design-minded+engineering" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,13 +25,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Tooling-ff69b4?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Browser_Extensions-87ceeb?style=for-the-badge&logo=googlechrome&logoColor=333" />
-  <img src="https://img.shields.io/badge/OCR_Pipelines-ffb6c1?style=for-the-badge&logo=googlelens&logoColor=333" />
+  <img src="./assets/profile-badges.svg" width="640" alt="AI Tooling, Browser Extensions, OCR Pipelines" />
 </p>
 
 <p align="center">
-  <img src="./assets/cute-divider.svg" width="100%" alt="cute animals on the line" />
+  <img src="./assets/cute-divider.svg" width="640" alt="cute animals on the line" />
 </p>
 
 <img src="./assets/hellokitty-strip.png" width="100%" alt="" />
